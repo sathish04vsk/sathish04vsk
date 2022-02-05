@@ -42,7 +42,7 @@ function App() {
 ];
   
   return (
-    
+      
   <div class="container">
     
       {data.map((nm)=>(
